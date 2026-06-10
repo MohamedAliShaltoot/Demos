@@ -164,9 +164,26 @@ Match Details
 
 ---
 
-## Team
+## 👨‍💻 Development Team
 
-Developed as part of the iOS Mobile Application Development program using UIKit and modern iOS development practices.
+This project was designed and developed by:
+
+| Team Member                     | Role          |
+| ------------------------------- | ------------- |
+| **Mohamed Ali Shaltoot**        | iOS Developer |
+| **Mahmoud Moustfa ElDemerdash** | iOS Developer |
+| **Omer Ramadan ElRouby**        | iOS Developer |
+
+---
+
+### Contributors
+
+* Mohamed Ali Shaltoot
+* Mahmoud Moustfa ElDemerdash
+* Omer Ramadan ElRouby
+
+Built with UIKit, MVP Architecture, and modern iOS development practices.
+
 
 ## Dark Theme
 
